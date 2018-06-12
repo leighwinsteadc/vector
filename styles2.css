@@ -96,3 +96,7 @@ line-height: 100px;
 	margin-right: 10px;
 	border-radius: 0 
 }
+
+.imgcard img {
+	width: 200px;
+}
